@@ -1,0 +1,176 @@
+.navbar-toggler{
+    background-color: #fff;
+}
+
+.colornav{
+    background-color: rgb(53, 6, 97) !important;
+    
+    
+}
+
+.custom-nav{
+    font-size: medium !important;
+  font-family: initial;
+  font-weight: 600;}
+  
+  .custom-nav li{
+    color: rgb(233, 222, 222);
+    
+  }
+  .custom-nav li:hover{
+    background-color: #054550;
+    border-radius: 3px;
+    border-radius: 30px;
+    
+  }
+ 
+  .custom-nav li a{
+    color:rgb(218, 187, 187);
+  }
+  .custom-nav li a:hover{
+    color: #fff;
+}
+
+
+  .nav-item:last-child .nav-link {
+    background-color: #054550;
+    border-radius: 30px;
+    color: #fff;
+    padding: 8px 28px;
+    margin: 0 0 0 10px;
+  }
+  /* banner */
+  .banner{
+    background-color: #ebf2f2f2;
+  }
+  .Textinfo h2{
+    font-size: 50px;
+  font-weight: bold;
+  color: #082d33 !important;
+
+  }
+  
+  .Textinfo p{
+    font-size: 25px;
+    font-weight: 600;
+  }
+  .Textinfo a{
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #350661;
+    padding: 5px 26px;
+    border-radius: 26px;
+  }
+  .Textinfo a:hover{
+    background-color: #054550;
+    color: #fff;
+  }
+  .text{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 37px;
+    font-weight: bold;
+    color: #082d33;
+  }
+  .py-4{
+    padding: 45px !important;
+  }
+  .list ul{
+    color: #28282f;
+   
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: 400;
+  }
+  .wishes{
+    text-align: center;
+  }
+  .wishes h2{
+    color: #054550;
+    font-weight: bold;
+  }
+  .table-center{
+    text-align: center;
+    padding: 0 147px 15px;
+    
+  }
+
+  /* your website */
+
+  .website{
+    background-color: #17022b;
+    margin-top: 30px;
+  }
+  .steps{
+    text-align: center;
+    margin-top: 20px;
+  }
+  .steps h2{
+    color: #dff0f3;
+    font-weight: bold;
+  }
+  .steps p{
+    color: #dff0f3;
+  }
+  .radius{
+    text-align: center;
+    margin-top: 49px; 
+    
+  }
+
+  .hard{
+    color: #dff0f3;
+    text-decoration: none;
+    background-color: #09859b;
+    border-radius: 18px;
+    padding: 11px 20px;
+
+  }
+  .hard:hover{
+    background-color: #054550;
+    color: #fff
+  }
+  .footer-color{
+    background-color: #000000;
+  }
+
+  .footer{
+    color: #dff0f3;
+  }
+
+  .footer ul{
+    list-style: none;
+  }
+  .fheader{
+    color: #dff0f3;
+    
+  }
+
+  .footer ul{
+    margin-left: -29px;
+  }
+  .footer ul li a{
+    text-decoration: none;
+    color: white
+
+  }
+   .Enrol-now{  
+   
+  background: rgb(4, 99, 9);
+ 
+  padding: 7px 10px;
+  border-radius: 7px;
+
+  }
+  .button{
+    text-decoration: none;
+    text-align: center;
+    color: #FFF;
+    
+  }
+  .Enrol-now:hover{
+    background-color: #054550;
+    color: #fff
+
+  }
